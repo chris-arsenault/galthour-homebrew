@@ -1,24 +1,9 @@
 {
-  "_meta": {
-    "sources": [
-      {
-        "json": "index",
-        "abbreviation": "GAL",
-        "full": "Galthour Homebrew",
-        "authors": [
-          "Villagelder"
-        ],
-        "convertedBy": [
-          "Tsonu"
-        ],
-        "version": "0.1",
-        "url": "https://github.com/chris-arsenault/galthour-homebrew",
-        "targetSchema": "2.0.1"
-      }
-    ],
-    "dateAdded": 1714242432,
-    "dateLastModified": 1714242432
-  },
-  "Language_ZS" : "languages/zsinn.json",
-  "Language_SAE" : "languages/saerith.json"
+  "readme" : [
+    "This is GALTHOUR"
+  ],
+  "toImport": [
+    "languages/zsinn.json",
+    "languages/saerith.json"
+  ]
 }
