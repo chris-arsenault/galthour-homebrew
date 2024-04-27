@@ -96,6 +96,10 @@
 	],
 	"subrace": [
 		{
+			"name": "Base",
+			"source": "zsinn",
+			"raceName": "Zsinn",
+			"raceSource": "zsinn",
 			"entries": [
 				{
 					"type": "entries",
@@ -147,7 +151,7 @@
 					"name": "Efficient Routine",
 					"source": "zsinn",
 					"entries": [
-						"You can perform two non-combat (and non spellcasting) tasks at once  without penalty to your efficiency in either."
+						"You know the {@spell thaumaturgy} cantrip. You can perform two non-combat (and non spellcasting) tasks at once  without penalty to your efficiency in either."
 					]
 				}
 			]
