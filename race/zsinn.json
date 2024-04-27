@@ -1,0 +1,207 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "zsinn",
+				"abbreviation": "GAL",
+				"full": "Galthour Homebrew",
+				"authors": [
+					"Villagelder"
+				],
+				"convertedBy": [
+					"Tsonu"
+				],
+				"version": "0.1",
+				"url": "https://github.com/chris-arsenault/galthour-homebrew",
+				"targetSchema": "2.0.1"
+			}
+		],
+		"dateAdded": 1714242432,
+		"dateLastModified": 1714242432
+	},
+	"race": [
+		{
+			"name": "Zsinn",
+			"source": "zsinn",
+			"page": 0,
+			"ability": [
+				{
+					"con": 1
+				}
+			],
+			"size": [
+				"M"
+			],
+			"speed": 30,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Age",
+					"entries": [
+						"Zsinn mature at 12 and rarely live longer than 60 years due to the harsh conditions of their lives."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Speed",
+					"entries": [
+						"Your base walking speed is 30 feet."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Size",
+					"entries": [
+						"Zsinn are generally robust, standing between 5 and 6 feet tall. Your size is Medium."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Alignment",
+					"entries": [
+						" Zsinn tend towards neutral alignments, shaped by their lives of servitude and hard work."
+					]
+				}
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+					"zsinn": true,
+					"lizardfolk": true
+				}
+			],
+			"feats": [
+				{
+					"Laborer's Endurance": 1,
+					"Hardened Scales": 1
+				}
+			],
+			"hasFluff": true,
+			"fluff": {
+				"entries": [
+					{
+						"type": "entries",
+						"name": "Description",
+						"entries": [
+							"In ancient times there were two dominant Saurian races: The Saerith and the Zsinn. The Saerith were desert and plains dwellers who worshipped the sun and built a vast erudite empire. But its grandeur was built on the atrocities of slavery and the Zsinn were the enslaved.",
+							"While the Saerith were bipedal humanoid with a reptilian nature, the Zsinn seemed much more closely linked to dinosaurs of ages past. Many Zsinn were conquered by the Saerith, enslaved, interbred, and genetically manipulated for various mundane labors."
+						]
+					}
+				],
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/chris-arsenault/galthour-homebrew/main/_img/zsinn.png"
+						}
+					}
+				]
+			}
+		}
+	],
+	"subrace": [
+		{
+			"name": "Zsinn Servitor",
+			"source": "zsinn",
+			"raceName": "Zsinn",
+			"raceSource": "zsinn",
+			"page": 0,
+			"overwrite": {
+				"ability": true,
+				"skillProficiencies": true,
+				"feats": true
+			},
+			"ability": [
+				{
+					"dex": 2
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"slight of hand",
+							"persuasion"
+						],
+						"count": 2
+					}
+				}
+			]
+		},
+		{
+			"name": "Zsinn Draft",
+			"source": "zsinn",
+			"raceName": "Zsinn",
+			"raceSource": "zsinn",
+			"page": 0,
+			"overwrite": {
+				"ability": true,
+				"skillProficiencies": true,
+				"feats": true
+			},
+			"ability": [
+				{
+					"str": 2
+				}
+			]
+		}
+	],
+	"feat": [
+		{
+			"name": "Laborer's Endurance",
+			"source": "zsinn",
+			"entries": [
+				"You have advantage on saving throws against exhaustion. When you take a long rest, you can remove up to two levels of exhaustion."
+			]
+		},
+		{
+			"name": "Hardened Scales",
+			"source": "zsinn",
+			"entries": [
+				"Your thick skin provides you an Armor Class of 13 + your Dexterity modifier when you are not wearing armor."
+			]
+		},
+		{
+			"name": "Industrial Might",
+			"source": "zsinn",
+			"entries": [
+				"You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+			]
+		},
+		{
+			"name": "Robust Frame",
+			"source": "zsinn",
+			"entries": [
+				"Once per short or long rest, as a bonus action, you can gain advantage on your next Strength (Athletics) check or on your next melee attack roll that hits you may roll another weapon damage die and add it to your total."
+			]
+		},
+		{
+			"name": "Efficient Routine",
+			"source": "zsinn",
+			"entries": [
+				"You can perform two non-combat (and non spellcasting) tasks at once  without penalty to your efficiency in either."
+			]
+		}
+	],
+	"language": [
+		{
+			"name": "Saerith",
+			"source": "zsinn",
+			"page": 0,
+			"entries": [
+				"Spoken by the master."
+			],
+			"type": "exotic"
+		},
+		{
+			"name": "Zsinn",
+			"source": "zsinn",
+			"page": 0,
+			"entries": [
+				"Spoken by the slave."
+			],
+			"type": "standard"
+		}
+	]
+}
