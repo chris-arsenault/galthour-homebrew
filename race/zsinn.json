@@ -61,22 +61,6 @@
 					"entries": [
 						"Zsinn tend towards neutral alignments, shaped by their lives of servitude and hard work."
 					]
-				},
-				{
-					"type": "entries",
-					"name": "Laborer's Endurance",
-					"source": "zsinn",
-					"entries": [
-						"You have advantage on saving throws against exhaustion. When you take a long rest, you can remove up to two levels of exhaustion."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Hardened Scales",
-					"source": "zsinn",
-					"entries": [
-						"Your thick skin provides you an Armor Class of 13 + your Dexterity modifier when you are not wearing armor."
-					]
 				}
 			],
 			"languageProficiencies": [
@@ -112,11 +96,35 @@
 	],
 	"subrace": [
 		{
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Laborer's Endurance",
+					"source": "zsinn",
+					"entries": [
+						"You have advantage on saving throws against exhaustion. When you take a long rest, you can remove up to two levels of exhaustion."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Hardened Scales",
+					"source": "zsinn",
+					"entries": [
+						"Your thick skin provides you an Armor Class of 13 + your Dexterity modifier when you are not wearing armor."
+					]
+				}
+			]
+		},
+		{
 			"name": "Servitor",
 			"source": "zsinn",
 			"raceName": "Zsinn",
 			"raceSource": "zsinn",
 			"page": 0,
+			"overwrite": {
+				"ability": true,
+				"skillProficiencies": true
+			},
 			"ability": [
 				{
 					"dex": 2
