@@ -59,7 +59,23 @@
 					"type": "entries",
 					"name": "Alignment",
 					"entries": [
-						" Zsinn tend towards neutral alignments, shaped by their lives of servitude and hard work."
+						"Zsinn tend towards neutral alignments, shaped by their lives of servitude and hard work."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Laborer's Endurance",
+					"source": "zsinn",
+					"entries": [
+						"You have advantage on saving throws against exhaustion. When you take a long rest, you can remove up to two levels of exhaustion."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Hardened Scales",
+					"source": "zsinn",
+					"entries": [
+						"Your thick skin provides you an Armor Class of 13 + your Dexterity modifier when you are not wearing armor."
 					]
 				}
 			],
@@ -68,12 +84,6 @@
 					"common": true,
 					"zsinn": true,
 					"lizardfolk": true
-				}
-			],
-			"feats": [
-				{
-					"Laborer's Endurance": 1,
-					"Hardened Scales": 1
 				}
 			],
 			"hasFluff": true,
@@ -107,11 +117,6 @@
 			"raceName": "Zsinn",
 			"raceSource": "zsinn",
 			"page": 0,
-			"overwrite": {
-				"ability": true,
-				"skillProficiencies": true,
-				"feats": true
-			},
 			"ability": [
 				{
 					"dex": 2
@@ -124,8 +129,18 @@
 							"slight of hand",
 							"persuasion"
 						],
-						"count": 2
+						"count": 1
 					}
+				}
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Efficient Routine",
+					"source": "zsinn",
+					"entries": [
+						"You can perform two non-combat (and non spellcasting) tasks at once  without penalty to your efficiency in either."
+					]
 				}
 			]
 		},
@@ -135,52 +150,28 @@
 			"raceName": "Zsinn",
 			"raceSource": "zsinn",
 			"page": 0,
-			"overwrite": {
-				"ability": true,
-				"skillProficiencies": true,
-				"feats": true
-			},
 			"ability": [
 				{
 					"str": 2
 				}
-			]
-		}
-	],
-	"feat": [
-		{
-			"name": "Laborer's Endurance",
-			"source": "zsinn",
+			],
 			"entries": [
-				"You have advantage on saving throws against exhaustion. When you take a long rest, you can remove up to two levels of exhaustion."
-			]
-		},
-		{
-			"name": "Hardened Scales",
-			"source": "zsinn",
-			"entries": [
-				"Your thick skin provides you an Armor Class of 13 + your Dexterity modifier when you are not wearing armor."
-			]
-		},
-		{
-			"name": "Industrial Might",
-			"source": "zsinn",
-			"entries": [
-				"You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
-			]
-		},
-		{
-			"name": "Robust Frame",
-			"source": "zsinn",
-			"entries": [
-				"Once per short or long rest, as a bonus action, you can gain advantage on your next Strength (Athletics) check or on your next melee attack roll that hits you may roll another weapon damage die and add it to your total."
-			]
-		},
-		{
-			"name": "Efficient Routine",
-			"source": "zsinn",
-			"entries": [
-				"You can perform two non-combat (and non spellcasting) tasks at once  without penalty to your efficiency in either."
+				{
+					"type": "entries",
+					"name": "Industrial Might",
+					"source": "zsinn",
+					"entries": [
+						"You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Robust Frame",
+					"source": "zsinn",
+					"entries": [
+						"Once per short or long rest, as a bonus action, you can gain advantage on your next Strength (Athletics) check or on your next melee attack roll that hits you may roll another weapon damage die and add it to your total."
+					]
+				}
 			]
 		}
 	],
