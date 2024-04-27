@@ -112,7 +112,7 @@
 	],
 	"subrace": [
 		{
-			"name": "Zsinn Servitor",
+			"name": "Servitor",
 			"source": "zsinn",
 			"raceName": "Zsinn",
 			"raceSource": "zsinn",
@@ -145,7 +145,7 @@
 			]
 		},
 		{
-			"name": "Zsinn Draft",
+			"name": "Draft",
 			"source": "zsinn",
 			"raceName": "Zsinn",
 			"raceSource": "zsinn",
