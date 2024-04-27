@@ -1,0 +1,32 @@
+{
+  "_meta": {
+    "sources": [
+      {
+        "json": "zsinn",
+        "abbreviation": "ZS",
+        "full": "Zsinn",
+        "authors": [
+          "Villagelder"
+        ],
+        "convertedBy": [
+          "Tsonu"
+        ],
+        "version": "0.1",
+        "url": "https://github.com/chris-arsenault/galthour-homebrew",
+        "targetSchema": "2.0.1"
+      }
+    ],
+    "dateAdded": 1714242432,
+    "dateLastModified": 1714242432
+  },
+  "language": [
+    {
+      "name": "Zsinn",
+      "source": "Homebrew",
+      "page": 0,
+      "entries": [
+        ""
+      ]
+    }
+  ]
+}
