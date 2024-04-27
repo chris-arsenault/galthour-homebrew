@@ -1,0 +1,43 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "languagesaerith",
+				"abbreviation": "GAL",
+				"full": "Galthour Homebrew",
+				"authors": [
+					"Villagelder"
+				],
+				"convertedBy": [
+					"Tsonu"
+				],
+				"version": "0.1",
+				"url": "https://github.com/chris-arsenault/galthour-homebrew",
+				"targetSchema": "2.0.1"
+			}
+		],
+		"dateAdded": 1714242432,
+		"dateLastModified": 1714242432
+	},
+	"language": [
+		{
+			"name": "Saerith",
+			"source": "languagesaerith",
+			"page": 0,
+			"entries": [
+				"Spoken by the master."
+			],
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://raw.githubusercontent.com/chris-arsenault/galthour-homebrew/main/_img/zsinn.png"
+						}
+					}
+				]
+			}
+		}
+	]
+}
