@@ -61,13 +61,6 @@
 					"entries": [
 						"Zsinn tend towards neutral alignments, shaped by their lives of servitude and hard work."
 					]
-				},
-				{
-					"type": "entries",
-					"name": "Play the Tuba",
-					"entries": [
-						"Starting at 3rd level, you can use your bonus action to temporarily summon an array of spectral gems that match your Gem Ancestry in the shape of wings that last for 1 minute. For the duration, you gain a flying speed equal to your walking speed and can hover. Once you use this trait, you can't do so again until you finish a long rest."
-					]
 				}
 			],
 			"languageProficiencies": [
@@ -188,7 +181,7 @@
 					"name": "Robust Frame",
 					"source": "zsinn",
 					"entries": [
-						"Once per short or long rest, as a bonus action, you can gain advantage on your next Strength (Athletics) check or on your next melee attack roll that hits you may roll another weapon damage die and add it to your total."
+						"As a bonus action you can gain advantage on your next Strength (Athletics) check or on your next melee attack roll that hits you may roll another weapon damage die and add it to your total. Once you use this trait, you can't do so again until you finish a short or long rest."
 					]
 				}
 			]
