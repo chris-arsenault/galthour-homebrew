@@ -11,13 +11,13 @@
 				"convertedBy": [
 					"Tsonu"
 				],
-				"version": "0.1",
+				"version": "0.2",
 				"url": "https://github.com/chris-arsenault/galthour-homebrew",
 				"targetSchema": "2.0.1"
 			}
 		],
 		"dateAdded": 1714242432,
-		"dateLastModified": 1714242432
+		"dateLastModified": 1714269044
 	},
 	"race": [
 		{
@@ -60,6 +60,13 @@
 					"name": "Alignment",
 					"entries": [
 						"Zsinn tend towards neutral alignments, shaped by their lives of servitude and hard work."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Gem Flight",
+					"entries": [
+						"Starting at 3rd level, you can use your bonus action to temporarily summon an array of spectral gems that match your Gem Ancestry in the shape of wings that last for 1 minute. For the duration, you gain a flying speed equal to your walking speed and can hover. Once you use this trait, you can't do so again until you finish a long rest."
 					]
 				}
 			],
@@ -151,7 +158,7 @@
 					"name": "Efficient Routine",
 					"source": "zsinn",
 					"entries": [
-						"You know the {@spell thaumaturgy} cantrip. You can perform two non-combat (and non spellcasting) tasks at once  without penalty to your efficiency in either."
+						"You can perform two non-combat (and non spellcasting) tasks at once  without penalty to your efficiency in either."
 					]
 				}
 			]
