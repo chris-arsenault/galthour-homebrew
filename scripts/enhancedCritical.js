@@ -18,18 +18,26 @@ Hooks.on('midi-qol.preDamageRoll', (workflow) => {
 Hooks.on('midi-qol.preDamageRollComplete', async (workflow) => {
     if (!workflow.specialCritical) return true;
     //roll the table
-    workflow.isCritical = false;
     //MidiQOL.displayDSNForRoll(new DamageRoll('1d20'), 'damageRoll');
-    const table = await fromUuid("RollTable.V7PF5r0H8qc75oh5");
+    const table = await game.tables.getName('Critical Hit');
     let result = await table.draw({roll: true, displayChat: false});
     let resultText = result.results[0].text
     let resultJson = JSON.parse(resultText);
+
+    // Update Chat Message
     let chatMessage = MidiQOL.getCachedChatMessage(workflow.itemCardUuid)
     let data = chatMessage?.toObject();
-    let rollResult = result.roll._total;
-    let critString = "<div class='card-header title border description'><b>Crit Roll (" + rollResult + "): </b>" + resultJson.text + "</div><div class='dnd5e2 evaluation'></div>"
-    data.content = data.content.replace(/<\/div>[\n\r\s]*<ul/gm, "</div>" + critString + "<ul")
+    let cardElement = document.createElement('div');
+    cardElement.innerHTML = data.content;
+    let newElement = document.createElement('div');
+    let critString = "<b>Crit Roll (" + result.roll._tota + "): </b>" + resultJson.text + "</div><div class='dnd5e2 evaluation' />"
+    newElement.classList.add(['card-header', 'title', 'border', 'description']);
+    newElement.innerHTML = critString
+    cardElement.querySelector('.midi-results').after(newElement);
+    data.content = cardElement.innerHTML
     await ChatMessage.create(data);
+
+    // Update rolls to remove double crit and multiply flat damage.
     let multi = resultJson.multiplier;
     let addedDamage = result.addedDamage || 0;
     let addedDamagePerType = (addedDamage/workflow.damageRolls.length).toString();
