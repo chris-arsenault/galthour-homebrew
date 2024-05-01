@@ -1,5 +1,5 @@
 /.idea/
-/.vs
+/.vs/
 node_modules
 /package-lock.json
 /test-json.error.log
