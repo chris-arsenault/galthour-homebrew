@@ -1,1 +1,1 @@
-This is GALTHOUR!!
+This is GALTHOUR!
