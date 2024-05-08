@@ -1,6 +1,7 @@
 {
   "toImport": [
     "race/zsinn.json",
-    "class/DM_Havuhk; The Witch.json"
+    "class/DM_Havuhk; The Witch.json",
+    "table/Villagelder; Tables.json"
   ]
 }
