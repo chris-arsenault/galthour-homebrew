@@ -3,12 +3,12 @@
 		"sources": [
 			{
 				"json": "VillagelderTable",
-				"abbreviation": "Gal",
+				"abbreviation": "GAL",
 				"full": "Galthour Homebrew",
 				"authors": [
 					"Villagelder"
 				],
-				"version": "1.0.0",
+				"version": "0.0.1",
 				"url": "https://github.com/chris-arsenault/galthour-homebrew",
 				"targetSchema": "1.0.0"
 			}
@@ -44,7 +44,7 @@
 				],
 				[
 					"2",
-					"First I have to envision the piece I want to craf. Then I do a lot of bending, smithing, and gemcutting, and voila! Jewelry!"
+					"First I have to envision the piece I want to craft. Then I do a lot of bending, smithing, and gemcutting, and voila! Jewelry!"
 				],
 				[
 					"3",
@@ -56,7 +56,7 @@
 				],
 				[
 					"5",
-					"Gold is rare, but its value is an abstract modification of the monarchy. Oops. Forget I said that."
+					"Gold is rare, but its value is an abstract construct of the monarchy. Oops. Forget I said that."
 				],
 				[
 					"6",

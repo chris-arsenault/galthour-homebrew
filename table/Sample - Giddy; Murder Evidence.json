@@ -2,7 +2,7 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "GiddyTable",
+				"json": "ShiddyTable",
 				"abbreviation": "Brew",
 				"full": "TheGiddyLimit",
 				"authors": [
@@ -20,7 +20,7 @@
 	"table": [
 		{
 			"name": "Random Clues; Murder Evidence",
-			"source": "GiddyTable",
+			"source": "ShiddyTable",
 			"intro": [
 				"The following table can be used as inspiration when a quick piece of murder-scene evidence is required.",
 				"{@note The \"intro\" section is optional.}"
