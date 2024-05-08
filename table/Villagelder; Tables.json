@@ -8,7 +8,7 @@
 				"authors": [
 					"Villagelder"
 				],
-				"version": "0.0.1",
+				"version": "0.0.2",
 				"url": "https://github.com/chris-arsenault/galthour-homebrew",
 				"targetSchema": "1.0.0"
 			}
@@ -19,7 +19,7 @@
 	},
 	"table": [
 		{
-			"name": "Random One-Liners; Jeweler",
+			"name": "Jeweler",
 			"source": "VillagelderTables",
 			"intro": [
 				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
@@ -31,7 +31,7 @@
 			],
 			"caption": "Jeweler Says",
 			"colLabels": [
-				"1d6",
+				"1d12",
 				"Phrase"
 			],
 			"colStyles": [
@@ -61,7 +61,173 @@
 				],
 				[
 					"6",
-					"If time travel were possible, I would find my little sister."
+					"Behold the luster of this little pearl, as perfect as nature allows."
+				],
+				[
+					"7",
+					"Pray, examine the fine craftsmanship of this brooch."
+				],
+				[
+					"8",
+					"This ring befits a hand of regal blood."
+				],
+				[
+					"9",
+					"Every jewel tells a tale; let me unlock its story."
+				],
+				[
+					"10",
+					"How may I serve thee today, good adventurer?"
+				],
+				[
+					"11",
+					"I assure thee, the quality of my jewels is unsurpassed."
+				],
+				[
+					"12",
+					"Take care with this piece, for it is as delicate as it is beautiful."
+				]
+			]
+		},
+		{
+			"name": "Clockmaker",
+			"source": "VillagelderTables",
+			"intro": [
+				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
+				"{@note The \"intro\" section is optional.}"
+			],
+			"outro": [
+				"This table should be read or modified prior to using, to insert your own plot hooks.",
+				"{@note The \"outro\" section is optional.}"
+			],
+			"caption": "Clockmaker Says",
+			"colLabels": [
+				"1d12",
+				"Phrase"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1",
+					"Hello. I'm the town clockmaker."
+				],
+				[
+					"2",
+					"The gears must align precisely, lest the mechanism falter."
+				],
+				[
+					"3",
+					"Patience, for time itself is crafted here."
+				],
+				[
+					"4",
+					"Bear witness to the dance of the pendulum, constant and true."
+				],
+				[
+					"5",
+					"I shall need the finest metals to ensure the longevity of thy timepiece."
+				],
+				[
+					"6",
+					"Mark the time well, for it waits for no one."
+				],
+				[
+					"7",
+					"As the sands in the hourglass, so are the days of Galthour."
+				],
+				[
+					"8",
+					"The balance gear must be free of imperfection, as Galthour orbits its twin suns."
+				],
+				[
+					"9",
+					"Wouldst thou prefer a striking hour or a silent keeper of time?"
+				],
+				[
+					"10",
+					"How may I serve thee today, good adventurer?"
+				],
+				[
+					"11",
+					"Pray, give me time, and I will give thee a masterpiece."
+				],
+				[
+					"12",
+					"Every cog and wheel must play its part, just as we do in life."
+				]
+			]
+		},
+		{
+			"name": "Gunmaker",
+			"source": "VillagelderTables",
+			"intro": [
+				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
+				"{@note The \"intro\" section is optional.}"
+			],
+			"outro": [
+				"This table should be read or modified prior to using, to insert your own plot hooks.",
+				"{@note The \"outro\" section is optional.}"
+			],
+			"caption": "Gunmaker Says",
+			"colLabels": [
+				"1d12",
+				"Phrase"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1",
+					"Hello. I'm the town gunmaker."
+				],
+				[
+					"2",
+					"Care to test the mettle of this fine arquebus?"
+				],
+				[
+					"3",
+					"A well-crafted barrel ensures the bullet flies true."
+				],
+				[
+					"4",
+					"Each piece is forged with precision for assured reliability."
+				],
+				[
+					"5",
+					"Keep thy powder dry and thy aim steady."
+				],
+				[
+					"6",
+					"Let me show thee the proper care of thy firearm to prevent misfires."
+				],
+				[
+					"7",
+					"This firearm is not just a tool; it is a companion in battle."
+				],
+				[
+					"8",
+					"Wouldst thou prefer a wheel lock or a flintlock?"
+				],
+				[
+					"9",
+					"A good gunsmith listens to the gun as much as the customer."
+				],
+				[
+					"10",
+					"This gun's range and accuracy are unmatched by any other in the land."
+				],
+				[
+					"11",
+					"I can engrave it with thy crest for a personal touch."
+				],
+				[
+					"12",
+					"Behold the craftsmanship that turns iron and wood into thunder and lightning."
 				]
 			]
 		}
