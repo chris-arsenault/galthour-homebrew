@@ -2,9 +2,9 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "VillagelderTable",
+				"json": "VillagelderTables",
 				"abbreviation": "GAL",
-				"full": "Galthour Homebrew",
+				"full": "Village One-liners",
 				"authors": [
 					"Villagelder"
 				],
@@ -13,13 +13,14 @@
 				"targetSchema": "1.0.0"
 			}
 		],
-		"dateAdded": 1715175140,
-		"dateLastModified": 1715175140
+		"dateAdded": 1600868694,
+		"dateLastModified": 1600868694,
+		"_dateLastModifiedHash": "38c75dbc7d"
 	},
 	"table": [
 		{
 			"name": "Random One-Liners; Jeweler",
-			"source": "VillagelderTable",
+			"source": "VillagelderTables",
 			"intro": [
 				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
 				"{@note The \"intro\" section is optional.}"
