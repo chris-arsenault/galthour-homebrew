@@ -1,0 +1,68 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "VillagelderTable",
+				"abbreviation": "Gal",
+				"full": "Galthour Homebrew",
+				"authors": [
+					"Villagelder"
+				],
+				"version": "1.0.0",
+				"url": "https://github.com/chris-arsenault/galthour-homebrew",
+				"targetSchema": "1.0.0"
+			}
+		],
+		"dateAdded": 1715175140,
+		"dateLastModified": 1715175140
+	},
+	"table": [
+		{
+			"name": "Random One-Liners; Jeweler",
+			"source": "VillagelderTable",
+			"intro": [
+				"The following table can be used as inspiration or quick one-liners for a mod like Token Says.",
+				"{@note The \"intro\" section is optional.}"
+			],
+			"outro": [
+				"This table should be read or modified prior to using, to insert your own plot hooks.",
+				"{@note The \"outro\" section is optional.}"
+			],
+			"caption": "Jeweler Says",
+			"colLabels": [
+				"1d6",
+				"Phrase"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1",
+					"Hi. I'm the town jeweler."
+				],
+				[
+					"2",
+					"First I have to envision the piece I want to craf. Then I do a lot of bending, smithing, and gemcutting, and voila! Jewelry!"
+				],
+				[
+					"3",
+					"Gold and silver jewelry is probably the most requested jewelry I get."
+				],
+				[
+					"4",
+					"I might be interested in buying any jewelled relics you find."
+				],
+				[
+					"5",
+					"Gold is rare, but its value is an abstract modification of the monarchy. Oops. Forget I said that."
+				],
+				[
+					"6",
+					"If time travel were possible, I would find my little sister."
+				]
+			]
+		}
+	]
+}
