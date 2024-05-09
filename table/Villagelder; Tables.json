@@ -1650,6 +1650,77 @@
 					"Remember, the honor of the guard reflects the honor of the kingdom."
 				]
 			]
+		},
+		{
+			"name": "Storekeeper Says",
+			"source": "VillagelderTables",
+			"intro": [
+				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
+				"{@note The \"intro\" section is optional.}"
+			],
+			"outro": [
+				"This table should be read or modified prior to using, to insert your own plot hooks.",
+				"{@note The \"outro\" section is optional.}"
+			],
+			"caption": "Storekeeper Says",
+			"colLabels": [
+				"1d12",
+				"Phrase"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1",
+					"Greetings, I'm the storekeeper. Whatever you need, my shelves likely hold it."
+				],
+				[
+					"2",
+					"Keep the ledger updated; a good merchant knows his inventory by heart."
+				],
+				[
+					"3",
+					"Barter or coin, all trade ends here under my roof."
+				],
+				[
+					"4",
+					"From spices to silk, browse at your leisure."
+				],
+				[
+					"5",
+					"Quality goods for fair prices\u2014that's my promise."
+				],
+				[
+					"6",
+					"Need advice on your purchases? I'm at your service."
+				],
+				[
+					"7",
+					"Restock regularly; a full store is a sign of prosperity."
+				],
+				[
+					"8",
+					"Carefully packed, these wares will travel well."
+				],
+				[
+					"9",
+					"Loyal customers are worth more than gold. How can I assist you today?"
+				],
+				[
+					"10",
+					"Every item has a story. Ask, and I'll tell."
+				],
+				[
+					"11",
+					"The early merchant catches the best deals. Let's start early."
+				],
+				[
+					"12",
+					"Special order? I'll source it for you, no matter the distance."
+				]
+			]
 		}
 	]
 }
