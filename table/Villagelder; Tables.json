@@ -19,7 +19,7 @@
 	},
 	"table": [
 		{
-			"name": "Jeweler",
+			"name": "Jeweler Says",
 			"source": "VillagelderTables",
 			"intro": [
 				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
@@ -90,7 +90,7 @@
 			]
 		},
 		{
-			"name": "Clockmaker",
+			"name": "Clockmaker Says",
 			"source": "VillagelderTables",
 			"intro": [
 				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
@@ -161,7 +161,7 @@
 			]
 		},
 		{
-			"name": "Gunmaker",
+			"name": "Gunmaker Says",
 			"source": "VillagelderTables",
 			"intro": [
 				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
@@ -228,6 +228,1426 @@
 				[
 					"12",
 					"Behold the craftsmanship that turns iron and wood into thunder and lightning."
+				]
+			]
+		},
+		{
+			"name": "Alchemist Says",
+			"source": "VillagelderTables",
+			"intro": [
+				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
+				"{@note The \"intro\" section is optional.}"
+			],
+			"outro": [
+				"This table should be read or modified prior to using, to insert your own plot hooks.",
+				"{@note The \"outro\" section is optional.}"
+			],
+			"caption": "Alchemist Says",
+			"colLabels": [
+				"1d12",
+				"Phrase"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1",
+					"Hello. I am the Alchemist of Timmesfaire."
+				],
+				[
+					"2",
+					"Patience is the first element in the pursuit of the Philosopher's Stone."
+				],
+				[
+					"3",
+					"Observe the reaction as the elixir comes to life."
+				],
+				[
+					"4",
+					"This potion requires the essence of moonlight and the tears of a mermaid."
+				],
+				[
+					"5",
+					"The alembic is the womb wherein raw matter is reborn."
+				],
+				[
+					"6",
+					"Behold the secret fires that refine and purify."
+				],
+				[
+					"7",
+					"This firearm is not just a tool; it is a companion in battle."
+				],
+				[
+					"8",
+					"Through the art of alchemy, we seek to unlock the mysteries of Galthour."
+				],
+				[
+					"9",
+					"Pray, take care, for the substances we handle are not forgiving."
+				],
+				[
+					"10",
+					"These ancient scrolls hold the wisdom of the sages long departed."
+				],
+				[
+					"11",
+					"This formula holds the potential for both creation and destruction."
+				],
+				[
+					"12",
+					"The balance of the four elements is essential for true transformation."
+				]
+			]
+		},
+		{
+			"name": "Herbalist Says",
+			"source": "VillagelderTables",
+			"intro": [
+				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
+				"{@note The \"intro\" section is optional.}"
+			],
+			"outro": [
+				"This table should be read or modified prior to using, to insert your own plot hooks.",
+				"{@note The \"outro\" section is optional.}"
+			],
+			"caption": "Herbalist Says",
+			"colLabels": [
+				"1d12",
+				"Phrase"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1",
+					"Hello. I'm the herblist."
+				],
+				[
+					"2",
+					"This concoction soothes the spirit as well as the body."
+				],
+				[
+					"3",
+					"Gather this herb under the light of a full moon for its full potency."
+				],
+				[
+					"4",
+					"Crush the leaves thusly to release their healing oils."
+				],
+				[
+					"5",
+					"Dry these roots over smoke to preserve their medicinal qualities."
+				],
+				[
+					"6",
+					"Handle this herb with care, for its powers are strong and swift."
+				],
+				[
+					"7",
+					"This poultice draws out the illness and restores vigor."
+				],
+				[
+					"8",
+					"These berries are a balm for the weary heart."
+				],
+				[
+					"9",
+					"Nature herself provides the means of our healing."
+				],
+				[
+					"10",
+					"Let us consult the old texts to find the remedy needed."
+				],
+				[
+					"11",
+					"We must tread lightly in the forest; the plants are our gracious hosts."
+				],
+				[
+					"12",
+					"This tincture will fortify the body against the winter's chill."
+				]
+			]
+		},
+		{
+			"name": "Brewer Says",
+			"source": "VillagelderTables",
+			"intro": [
+				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
+				"{@note The \"intro\" section is optional.}"
+			],
+			"outro": [
+				"This table should be read or modified prior to using, to insert your own plot hooks.",
+				"{@note The \"outro\" section is optional.}"
+			],
+			"caption": "Brewer Says",
+			"colLabels": [
+				"1d12",
+				"Phrase"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1",
+					"Hello. I'm the town brewer."
+				],
+				[
+					"2",
+					"A good brew begins with the finest grains and purest water."
+				],
+				[
+					"3",
+					"This batch shall be ready when the Luna completes her cycle."
+				],
+				[
+					"4",
+					"Barley and hops, these are the backbone of any hearty ale."
+				],
+				[
+					"5",
+					"Keep the casks cool, as summer's heat is the enemy of good beer."
+				],
+				[
+					"6",
+					"This ale is brewed in the old way, handed down through generations."
+				],
+				[
+					"7",
+					"Let it ferment under a watchful eye and a patient hand."
+				],
+				[
+					"8",
+					"Add the herbs at just the right moment for a hint of the forest."
+				],
+				[
+					"9",
+					"Toasting the barley will give you a richer, deeper flavor."
+				],
+				[
+					"10",
+					"Each sip tells a story of the earth and the seasons."
+				],
+				[
+					"11",
+					"Let the ale rest; haste makes for a cloudy brew."
+				],
+				[
+					"12",
+					"A pinch of spice will make the ale dance on the tongue."
+				]
+			]
+		},
+		{
+			"name": "Shoemaker Says",
+			"source": "VillagelderTables",
+			"intro": [
+				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
+				"{@note The \"intro\" section is optional.}"
+			],
+			"outro": [
+				"This table should be read or modified prior to using, to insert your own plot hooks.",
+				"{@note The \"outro\" section is optional.}"
+			],
+			"caption": "Shoemaker Says",
+			"colLabels": [
+				"1d12",
+				"Phrase"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1",
+					"Hello. I'm the town cobbler."
+				],
+				[
+					"2",
+					"These boots shall fit as though they were made for a king."
+				],
+				[
+					"3",
+					"A sturdy sole will serve thee well on cobblestones and mud alike."
+				],
+				[
+					"4",
+					"For fine occasions, nothing less than softest leather shall suffice."
+				],
+				[
+					"5",
+					"Patience, dear fellow, for quality leather needs time to soften."
+				],
+				[
+					"6",
+					"I usually reinforce the seams with double stitching for endurance."
+				],
+				[
+					"7",
+					"Wouldst thou prefer a buckle or a lace to secure thy footwear?"
+				],
+				[
+					"8",
+					"As the cobbler, I ensure each shoe is a fortress for the feet."
+				],
+				[
+					"9",
+					"The leather of a young dragon is most resistant to rain and sun."
+				],
+				[
+					"10",
+					"Heels for height, flats for comfort, choose as thy day demands."
+				],
+				[
+					"11",
+					"Let the ale rest; haste makes for a cloudy brew."
+				],
+				[
+					"12",
+					"Order boots from me and return in a fortnight; thy shoes will be ready for thy journey."
+				]
+			]
+		},
+		{
+			"name": "Bladesmith Says",
+			"source": "VillagelderTables",
+			"intro": [
+				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
+				"{@note The \"intro\" section is optional.}"
+			],
+			"outro": [
+				"This table should be read or modified prior to using, to insert your own plot hooks.",
+				"{@note The \"outro\" section is optional.}"
+			],
+			"caption": "Bladesmith Says",
+			"colLabels": [
+				"1d12",
+				"Phrase"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1",
+					"Hello. I'm a bladesmith. If it's a blade you need, you've come to the right dragonborn."
+				],
+				[
+					"2",
+					"Work to do. Hammer the iron while it's hot!"
+				],
+				[
+					"3",
+					"Strike true and strike sure!"
+				],
+				[
+					"4",
+					"Draw out the blade and quench the steel."
+				],
+				[
+					"5",
+					"Fold and temper the edge for a solid blade."
+				],
+				[
+					"6",
+					"Don't forget to dress the grindstone."
+				],
+				[
+					"7",
+					"Wouldst thou prefer a buckle or a lace to secure thy footwear?"
+				],
+				[
+					"8",
+					"Oh how I love the sound of a ringing anvil in the morning."
+				],
+				[
+					"9",
+					"A blade's worth is in its mettle."
+				],
+				[
+					"10",
+					"Mend the tongs and sweep the scale."
+				],
+				[
+					"11",
+					"To the hardy hole!"
+				],
+				[
+					"12",
+					"The fuller the blade, the harder the bite."
+				]
+			]
+		},
+		{
+			"name": "Sage Says",
+			"source": "VillagelderTables",
+			"intro": [
+				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
+				"{@note The \"intro\" section is optional.}"
+			],
+			"outro": [
+				"This table should be read or modified prior to using, to insert your own plot hooks.",
+				"{@note The \"outro\" section is optional.}"
+			],
+			"caption": "Sage Says",
+			"colLabels": [
+				"1d12",
+				"Phrase"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1",
+					"Hello, I know what you're looking for: a sage."
+				],
+				[
+					"2",
+					"Come on in. We can cast the bones and I can foretell your future."
+				],
+				[
+					"3",
+					"The spirits tell me that you should conjure with caution."
+				],
+				[
+					"4",
+					"A couple silver and I will tell you what you need to know by legend and lore."
+				],
+				[
+					"5",
+					"I invoke the ancients to unveil the truth."
+				],
+				[
+					"6",
+					"I can foretell the future by reading the runes."
+				],
+				[
+					"7",
+					"Don't interrupt me when I'm consulting the spirits."
+				],
+				[
+					"8",
+					"I see dead people."
+				],
+				[
+					"9",
+					"For a coin of platinum, I will consult the arcane text."
+				],
+				[
+					"10",
+					"No! Not 'guard the secret well!' - 'Guard the secrets well'..."
+				],
+				[
+					"11",
+					"Birds make me uneasy."
+				],
+				[
+					"12",
+					"The stars give me guidance."
+				]
+			]
+		},
+		{
+			"name": "Fletcher Says",
+			"source": "VillagelderTables",
+			"intro": [
+				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
+				"{@note The \"intro\" section is optional.}"
+			],
+			"outro": [
+				"This table should be read or modified prior to using, to insert your own plot hooks.",
+				"{@note The \"outro\" section is optional.}"
+			],
+			"caption": "Fletcher Says",
+			"colLabels": [
+				"1d12",
+				"Phrase"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1",
+					"Hi. I'm a fletcher. Not just any fletcher. The best fletcher."
+				],
+				[
+					"2",
+					"Everyone knows you have to choose your shaft well for your arrow to fly true."
+				],
+				[
+					"3",
+					"You know, 'straight as an arrow,' that's how I make 'em."
+				],
+				[
+					"4",
+					"You fletch the flight but you have to use the right feathers."
+				],
+				[
+					"5",
+					"To the quiver, these shall go."
+				],
+				[
+					"6",
+					"Nock well and true."
+				],
+				[
+					"7",
+					"Be sure you balance the bolt. No one wants an unbalanced bolt."
+				],
+				[
+					"8",
+					"You must wax the string to preserve it."
+				],
+				[
+					"9",
+					"When making arrows you must match the set."
+				],
+				[
+					"10",
+					"When making fire arrows, you dip them in pitch."
+				],
+				[
+					"11",
+					"Would you need a bundle of ten or a score?"
+				],
+				[
+					"12",
+					"Always remember to inspect the grain of your arrow. That's your livelihood."
+				]
+			]
+		},
+		{
+			"name": "Baker Says",
+			"source": "VillagelderTables",
+			"intro": [
+				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
+				"{@note The \"intro\" section is optional.}"
+			],
+			"outro": [
+				"This table should be read or modified prior to using, to insert your own plot hooks.",
+				"{@note The \"outro\" section is optional.}"
+			],
+			"caption": "Baker Says",
+			"colLabels": [
+				"1d12",
+				"Phrase"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1",
+					"Hi. I'm the baker. Best bread in forty leagues."
+				],
+				[
+					"2",
+					"To the oven with it!"
+				],
+				[
+					"3",
+					"Knead it until it sings."
+				],
+				[
+					"4",
+					"Good bread means being patient and letting the dough rise."
+				],
+				[
+					"5",
+					"Be sure to measure the meal, or you'll ruin your bread."
+				],
+				[
+					"6",
+					"Stroke the hearth and get it good and hot."
+				],
+				[
+					"7",
+					"Don't forget to score the loaf."
+				],
+				[
+					"8",
+					"Fetch the peel else you'll burn ye hand off."
+				],
+				[
+					"9",
+					"Gather the spices and mold the buns."
+				],
+				[
+					"10",
+					"Nothing like fresh served bread."
+				],
+				[
+					"11",
+					"Would you need a bundle of ten or a score?"
+				],
+				[
+					"12",
+					"Always remember to inspect the grain of your arrow. That's your livelihood."
+				]
+			]
+		},
+		{
+			"name": "Blacksmith Says",
+			"source": "VillagelderTables",
+			"intro": [
+				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
+				"{@note The \"intro\" section is optional.}"
+			],
+			"outro": [
+				"This table should be read or modified prior to using, to insert your own plot hooks.",
+				"{@note The \"outro\" section is optional.}"
+			],
+			"caption": "Blacksmith Says",
+			"colLabels": [
+				"1d12",
+				"Phrase"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1",
+					"Greetings, I am the blacksmith. If it's metal, I can forge it."
+				],
+				[
+					"2",
+					"The anvil sings today, ready for hard work."
+				],
+				[
+					"3",
+					"Heat the iron until it glows; only then can you truly shape it."
+				],
+				[
+					"4",
+					"Hammering is the heart of smithing; each strike molds the metal."
+				],
+				[
+					"5",
+					"Quench the blade to harden it; that's the secret to a sharp edge."
+				],
+				[
+					"6",
+					"Let's mend that armor; a knight is only as good as his shield."
+				],
+				[
+					"7",
+					"Careful with the forge! Fire is a tool and a danger."
+				],
+				[
+					"8",
+					"Bring the horseshoes; an unshod horse is a tragedy waiting."
+				],
+				[
+					"9",
+					"Twist the rods, craft the gates. Every detail counts."
+				],
+				[
+					"10",
+					"Repairing tools is as important as making new ones."
+				],
+				[
+					"11",
+					"To forge a sword fit for a king takes patience and skill."
+				],
+				[
+					"12",
+					"Never trust iron that hasn't been tested in fire."
+				]
+			]
+		},
+		{
+			"name": "Sign Maker Says",
+			"source": "VillagelderTables",
+			"intro": [
+				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
+				"{@note The \"intro\" section is optional.}"
+			],
+			"outro": [
+				"This table should be read or modified prior to using, to insert your own plot hooks.",
+				"{@note The \"outro\" section is optional.}"
+			],
+			"caption": "Sign Maker Says",
+			"colLabels": [
+				"1d12",
+				"Phrase"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1",
+					"Greetings, I'm the sign maker. A good sign leads the way."
+				],
+				[
+					"2",
+					"Let's paint a sign that speaks before words do."
+				],
+				[
+					"3",
+					"Choose your words carefully; they will adorn your sign forever. Just kidding, I can paint new words."
+				],
+				[
+					"4",
+					"A sign must be as bold as the business it heralds."
+				],
+				[
+					"5",
+					"Carving letters is like shaping thoughts in wood."
+				],
+				[
+					"6",
+					"Gold leaf or simple paint? Your sign, your choice."
+				],
+				[
+					"7",
+					"Hang it high so the whole village can see."
+				],
+				[
+					"8",
+					"Magically protecting your sign is the key to longevity."
+				],
+				[
+					"9",
+					"A well-crafted sign brings customers through your door."
+				],
+				[
+					"10",
+					"Let's design a sign that matches your shop's spirit."
+				],
+				[
+					"11",
+					"Careful with that brush, every stroke counts."
+				],
+				[
+					"12",
+					"Need a new sign for the market day? I'm your craftsman."
+				]
+			]
+		},
+		{
+			"name": "Scribe Says",
+			"source": "VillagelderTables",
+			"intro": [
+				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
+				"{@note The \"intro\" section is optional.}"
+			],
+			"outro": [
+				"This table should be read or modified prior to using, to insert your own plot hooks.",
+				"{@note The \"outro\" section is optional.}"
+			],
+			"caption": "Scribe Says",
+			"colLabels": [
+				"1d12",
+				"Phrase"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1",
+					"Greetings, I am the scribe. With ink and quill, I preserve our words."
+				],
+				[
+					"2",
+					"Careful with that manuscript; each page holds a piece of history."
+				],
+				[
+					"3",
+					"Let me transcribe your tale for generations to read."
+				],
+				[
+					"4",
+					"A drop of ink may make a million think."
+				],
+				[
+					"5",
+					"Precision in every letter, that's the scribe's promise."
+				],
+				[
+					"6",
+					"Bring your documents; leave with them immortalized in ink."
+				],
+				[
+					"7",
+					"The quill is mightier than the gun? the spell? the dagger? Yes, that's it, dagger!."
+				],
+				[
+					"8",
+					"Scrolls or books, what shall it be today?"
+				],
+				[
+					"9",
+					"A scribe's work is never done, for there are always more stories to record."
+				],
+				[
+					"10",
+					"Binding thoughts in leather, stitching pages to last."
+				],
+				[
+					"11",
+					"From royal decrees to humble notes, I write them all."
+				],
+				[
+					"12",
+					"Parchment, ink, and a steady hand: the tools of my trade."
+				]
+			]
+		},
+		{
+			"name": "Tavern Keeper Says",
+			"source": "VillagelderTables",
+			"intro": [
+				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
+				"{@note The \"intro\" section is optional.}"
+			],
+			"outro": [
+				"This table should be read or modified prior to using, to insert your own plot hooks.",
+				"{@note The \"outro\" section is optional.}"
+			],
+			"caption": "Tavern Keeper Says",
+			"colLabels": [
+				"1d12",
+				"Phrase"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1",
+					"Greetings, I'm the tavern keeper."
+				],
+				[
+					"2",
+					"Keep the ale flowing and the stories coming."
+				],
+				[
+					"3",
+					"Warm meals and cold drinks, that's what we're known for."
+				],
+				[
+					"4",
+					"A roaring fire and a sturdy mug, welcome to our tavern!"
+				],
+				[
+					"5",
+					"Care for a game of dice upstairs while you sip your drink?"
+				],
+				[
+					"6",
+					"Got a tale of travel? Our patrons are all ears."
+				],
+				[
+					"7",
+					"The best brews from across town, right here under one roof."
+				],
+				[
+					"8",
+					"Rooms for rent upstairs, should you wish to take a long rest."
+				],
+				[
+					"9",
+					"Try our famous stew, it'll warm your bones!"
+				],
+				[
+					"10",
+					"Need a refill or perhaps some local gossip?"
+				],
+				[
+					"11",
+					"We host musicians on the morrow. Join us for a night of song."
+				],
+				[
+					"12",
+					"Last call for drinks, friends! Don't miss out."
+				]
+			]
+		},
+		{
+			"name": "Woodcarver Says",
+			"source": "VillagelderTables",
+			"intro": [
+				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
+				"{@note The \"intro\" section is optional.}"
+			],
+			"outro": [
+				"This table should be read or modified prior to using, to insert your own plot hooks.",
+				"{@note The \"outro\" section is optional.}"
+			],
+			"caption": "Woodcarver Says",
+			"colLabels": [
+				"1d12",
+				"Phrase"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1",
+					"Greetings, I'm the woodcarver. You could say, I'm a chip off the old block."
+				],
+				[
+					"2",
+					"From simple spoons to grand statues, my hands shape them all."
+				],
+				[
+					"3",
+					"The grain of the wood guides my tools; it's a dance of creation."
+				],
+				[
+					"4",
+					"Custom carvings? Tell me what you envision."
+				],
+				[
+					"5",
+					"Feel the smooth finish of this oak. That's quality work."
+				],
+				[
+					"6",
+					"Each piece is unique, crafted with patience and precision."
+				],
+				[
+					"7",
+					"Carving not only furniture but also the stories they'll hold."
+				],
+				[
+					"8",
+					"Care to see my collection of ornate boxes?"
+				],
+				[
+					"9",
+					"The scent of fresh-cut timber\u2014it's the scent of possibility."
+				],
+				[
+					"10",
+					"A true woodcarver knows his material as well as his tools."
+				],
+				[
+					"11",
+					"Let's bring your idea to life in wood."
+				],
+				[
+					"12",
+					"This isn't just a craft, it's a way to preserve our heritage."
+				]
+			]
+		},
+		{
+			"name": "Fortune Teller Says",
+			"source": "VillagelderTables",
+			"intro": [
+				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
+				"{@note The \"intro\" section is optional.}"
+			],
+			"outro": [
+				"This table should be read or modified prior to using, to insert your own plot hooks.",
+				"{@note The \"outro\" section is optional.}"
+			],
+			"caption": "Fortune Teller Says",
+			"colLabels": [
+				"1d12",
+				"Phrase"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1",
+					"Greetings, fortune seeker. I am the fortune teller. What mysteries do you wish to unravel?"
+				],
+				[
+					"2",
+					"Let the cards reveal the path that lies before you."
+				],
+				[
+					"3",
+					"Gaze into the crystal ball; your fate awaits in its depths."
+				],
+				[
+					"4",
+					"The stars hold secrets of your destiny, let me interpret their ancient whispers."
+				],
+				[
+					"5",
+					"Beware the shadows that lurk on the edge of tomorrow."
+				],
+				[
+					"6",
+					"Feel the energies that surround you; they speak of coming changes."
+				],
+				[
+					"7",
+					"A powerful omen resides in your aura. Shall we explore its meaning?"
+				],
+				[
+					"8",
+					"You must find a talisman that will protect you on your journey through the unseen."
+				],
+				[
+					"9",
+					"The spirits are restless today. What questions do you bring to them?"
+				],
+				[
+					"10",
+					"An ancient spell to clear your path might be necessary."
+				],
+				[
+					"11",
+					"Let me mix these herbs; they will help reveal your true love."
+				],
+				[
+					"12",
+					"Your palm lines tell a story of great adventure and trials to come."
+				]
+			]
+		},
+		{
+			"name": "Wheelwright Says",
+			"source": "VillagelderTables",
+			"intro": [
+				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
+				"{@note The \"intro\" section is optional.}"
+			],
+			"outro": [
+				"This table should be read or modified prior to using, to insert your own plot hooks.",
+				"{@note The \"outro\" section is optional.}"
+			],
+			"caption": "Wheelwright Says",
+			"colLabels": [
+				"1d12",
+				"Phrase"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1",
+					"Greetings, I'm the wheelwright. Well-crafted wheels keep this kingdom turning."
+				],
+				[
+					"2",
+					"A sturdy wheel is the foundation of a steady cart."
+				],
+				[
+					"3",
+					"Measure twice and cut once, I say. Precision makes perfect."
+				],
+				[
+					"4",
+					"Spokes, rims, and hubs\u2014I shape them all to fit just right."
+				],
+				[
+					"5",
+					"Only the finest timber for my wheels, chosen for strength and resilience."
+				],
+				[
+					"6",
+					"Iron bands to bind them, for a wheel must endure the roughest roads."
+				],
+				[
+					"7",
+					"Every wheel I make is balanced to roll true and smooth."
+				],
+				[
+					"8",
+					"Come see me if your wagon wobbles or your cart clatters."
+				],
+				[
+					"9",
+					"A broken wheel? I'll have it turning anew by sunset."
+				],
+				[
+					"10",
+					"Custom wheels for carriages, carts, and coaches, tailored to your needs."
+				],
+				[
+					"11",
+					"Trust your goods to wheels made in my workshop\u2014they won't let you down."
+				],
+				[
+					"12",
+					"The right wheel for the right journey. Let's make sure you're equipped."
+				]
+			]
+		},
+		{
+			"name": "Glassblower Says",
+			"source": "VillagelderTables",
+			"intro": [
+				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
+				"{@note The \"intro\" section is optional.}"
+			],
+			"outro": [
+				"This table should be read or modified prior to using, to insert your own plot hooks.",
+				"{@note The \"outro\" section is optional.}"
+			],
+			"caption": "Glassblower Says",
+			"colLabels": [
+				"1d12",
+				"Phrase"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1",
+					"Greetings, I am the glassblower."
+				],
+				[
+					"2",
+					"Watch the molten glass dance at the end of my blowpipe. The art of fire and breath turns sand into beauty."
+				],
+				[
+					"3",
+					"Each piece a breath of life; fragile yet strong."
+				],
+				[
+					"4",
+					"Colors swirl as I shape the glass\u2014it tells its own tale."
+				],
+				[
+					"5",
+					"From vases to stained glass windows, my hands craft light and color."
+				],
+				[
+					"6",
+					"The furnace roars; it's time to create something new."
+				],
+				[
+					"7",
+					"Careful, the beauty of glass comes from its trial by fire."
+				],
+				[
+					"8",
+					"Let me shape a piece that catches the suns of Galthour just right."
+				],
+				[
+					"9",
+					"Each bubble, a whisper of the glass's origin."
+				],
+				[
+					"10",
+					"Delicate work, glassblowing\u2014it demands a steady hand and a patient heart."
+				],
+				[
+					"11",
+					"You could commission a set of glassware; dine with art every day."
+				],
+				[
+					"12",
+					"The glow of molten glass..."
+				]
+			]
+		},
+		{
+			"name": "Glassblower Says",
+			"source": "VillagelderTables",
+			"intro": [
+				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
+				"{@note The \"intro\" section is optional.}"
+			],
+			"outro": [
+				"This table should be read or modified prior to using, to insert your own plot hooks.",
+				"{@note The \"outro\" section is optional.}"
+			],
+			"caption": "Glassblower Says",
+			"colLabels": [
+				"1d12",
+				"Phrase"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1",
+					"Greetings, I am the glassblower."
+				],
+				[
+					"2",
+					"Watch the molten glass dance at the end of my blowpipe. The art of fire and breath turns sand into beauty."
+				],
+				[
+					"3",
+					"Each piece a breath of life; fragile yet strong."
+				],
+				[
+					"4",
+					"Colors swirl as I shape the glass\u2014it tells its own tale."
+				],
+				[
+					"5",
+					"From vases to stained glass windows, my hands craft light and color."
+				],
+				[
+					"6",
+					"The furnace roars; it's time to create something new."
+				],
+				[
+					"7",
+					"Careful, the beauty of glass comes from its trial by fire."
+				],
+				[
+					"8",
+					"Let me shape a piece that catches the suns of Galthour just right."
+				],
+				[
+					"9",
+					"Each bubble, a whisper of the glass's origin."
+				],
+				[
+					"10",
+					"Delicate work, glassblowing\u2014it demands a steady hand and a patient heart."
+				],
+				[
+					"11",
+					"You could commission a set of glassware; dine with art every day."
+				],
+				[
+					"12",
+					"The glow of molten glass..."
+				]
+			]
+		},
+		{
+			"name": "Leatherworker Says",
+			"source": "VillagelderTables",
+			"intro": [
+				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
+				"{@note The \"intro\" section is optional.}"
+			],
+			"outro": [
+				"This table should be read or modified prior to using, to insert your own plot hooks.",
+				"{@note The \"outro\" section is optional.}"
+			],
+			"caption": "Leatherworker Says",
+			"colLabels": [
+				"1d12",
+				"Phrase"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1",
+					"Greetings, I'm the leatherworker. Tough yet supple."
+				],
+				[
+					"2",
+					"For sturdy boots, leather armor, fine belts, quality leather makes all the difference."
+				],
+				[
+					"3",
+					"Feel the grain of this hide, each one tells a different story."
+				],
+				[
+					"4",
+					"Stitch by stitch, a craftsman's pride is sewn into every piece."
+				],
+				[
+					"5",
+					"Custom harnesses for your horses, fitted to perfection."
+				],
+				[
+					"6",
+					"Waterproofing? A must for any traveler's gear."
+				],
+				[
+					"7",
+					"Let's measure for that jacket. Fit and function in harmony."
+				],
+				[
+					"8",
+					"Durable and decorative, my leatherwork is made to last."
+				],
+				[
+					"9",
+					"A new saddle? I'll craft one that's worthy of your steed."
+				],
+				[
+					"10",
+					"Need a pouch or a sheath? I have leather for all purposes."
+				],
+				[
+					"11",
+					"Repair that tear, reinforce that seam\u2014leather care is part of the craft."
+				],
+				[
+					"12",
+					"Only the best dyes for my creations. Leather holds the world together."
+				]
+			]
+		},
+		{
+			"name": "Potter Says",
+			"source": "VillagelderTables",
+			"intro": [
+				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
+				"{@note The \"intro\" section is optional.}"
+			],
+			"outro": [
+				"This table should be read or modified prior to using, to insert your own plot hooks.",
+				"{@note The \"outro\" section is optional.}"
+			],
+			"caption": "Potter Says",
+			"colLabels": [
+				"1d12",
+				"Phrase"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1",
+					"Greetings, I'm the potter. Each spin of the wheel shapes a new destiny."
+				],
+				[
+					"2",
+					"Clay in hand, possibilities unfold\u2014what shall we create today?"
+				],
+				[
+					"3",
+					"The wheel hums a tune of creation; listen as the clay transforms."
+				],
+				[
+					"4",
+					"Every vessel starts with a lump of earth and a vision."
+				],
+				[
+					"5",
+					"Glazing is the potter's magic\u2014colors that will survive the fire."
+				],
+				[
+					"6",
+					"Patience and a gentle touch, the secrets to perfect pottery."
+				],
+				[
+					"7",
+					"Let's shape a set of bowls, each one unique to your table."
+				],
+				[
+					"8",
+					"Crafting urns and jugs, each with a story to hold."
+				],
+				[
+					"9",
+					"A potter's hands are never idle, always molding, always making."
+				],
+				[
+					"10",
+					"Firing the kiln, a transformative night that defines our art."
+				],
+				[
+					"11",
+					"Custom pieces? Let's discuss what you envision."
+				],
+				[
+					"12",
+					"The right piece of pottery can turn a house into a home."
+				]
+			]
+		},
+		{
+			"name": "Guard Captain Says",
+			"source": "VillagelderTables",
+			"intro": [
+				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
+				"{@note The \"intro\" section is optional.}"
+			],
+			"outro": [
+				"This table should be read or modified prior to using, to insert your own plot hooks.",
+				"{@note The \"outro\" section is optional.}"
+			],
+			"caption": "Guard Captain Says",
+			"colLabels": [
+				"1d12",
+				"Phrase"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1",
+					"Greetings, I'm the captain of the guard. Safety and order are my command."
+				],
+				[
+					"2",
+					"Patrol the walls, keep watch; vigilance is our shield."
+				],
+				[
+					"3",
+					"Gather your gear, men. We march at dawn."
+				],
+				[
+					"4",
+					"A guard's duty is not just to fight, but to uphold and protect."
+				],
+				[
+					"5",
+					"Report all suspicious activities. No detail is too small."
+				],
+				[
+					"6",
+					"Drill and discipline, that's the backbone of our force."
+				],
+				[
+					"7",
+					"To each their post, for the night is dark and full of terrors."
+				],
+				[
+					"8",
+					"The peace of the realm rests on our readiness."
+				],
+				[
+					"9",
+					"Inspect your armor, sharpen your blades. Preparedness saves lives."
+				],
+				[
+					"10",
+					"A true guard knows the people as well as the streets."
+				],
+				[
+					"11",
+					"Briefing at the hour. Be sharp, be early."
+				],
+				[
+					"12",
+					"Remember, the honor of the guard reflects the honor of the kingdom."
 				]
 			]
 		}
