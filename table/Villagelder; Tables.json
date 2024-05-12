@@ -1238,7 +1238,7 @@
 			],
 			"caption": "Wheelwright Says",
 			"colLabels": [
-				"1d12",
+				"1d20",
 				"Phrase"
 			],
 			"colStyles": [
@@ -1293,6 +1293,38 @@
 				[
 					"12",
 					"The right wheel for the right journey. Let's make sure you're equipped."
+				],
+				[
+					"13",
+					"Don't forget to check the wheels on your before every trip."
+				],
+				[
+					"14",
+					"When you buy three wagon wheels, you get one free."
+				],
+				[
+					"15",
+					"The Goodwitch wheels will get you where you're goin, but my Fire Phoenix wheels are iron-banded and get more miles."
+				],
+				[
+					"16",
+					"The Flyer wheel is for chariot racing."
+				],
+				[
+					"17",
+					"Always check your wheels; a broken wheel could be disaster."
+				],
+				[
+					"18",
+					"I don't just make wheels, I also build wagons."
+				],
+				[
+					"19",
+					"I build farm wagons, nice carriages, racing chariots, caravan wagons, settler wagons..."
+				],
+				[
+					"20",
+					"Oak is a good for building wheels but walnut is also a very nice hardwood."
 				]
 			]
 		},
