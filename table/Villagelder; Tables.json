@@ -1755,7 +1755,7 @@
 			]
 		},
 		{
-			"name": "Fortune Teller Says",
+			"name": "Seer Says",
 			"source": "VillagelderTables",
 			"intro": [
 				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
