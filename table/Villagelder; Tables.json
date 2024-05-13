@@ -1753,6 +1753,429 @@
 					"Special order? I'll source it for you, no matter the distance."
 				]
 			]
+		},
+		{
+			"name": "Fortune Teller Says",
+			"source": "VillagelderTables",
+			"intro": [
+				"This table can be used as inspiration or quick one-liners for a mod like Token Says.",
+				"{@note The \"intro\" section is optional.}"
+			],
+			"outro": [
+				"This table should be read or modified prior to using, to insert your own plot hooks.",
+				"{@note The \"outro\" section is optional.}"
+			],
+			"caption": "Fortune Teller Says",
+			"colLabels": [
+				"1d100",
+				"Phrase"
+			],
+			"colStyles": [
+				"col-2 text-center",
+				"col-10"
+			],
+			"rows": [
+				[
+					"1",
+					"Today is a good day for something new."
+				],
+				[
+					"2",
+					"Your greatest fortune is the large number of friends you have."
+				],
+				[
+					"3",
+					"A dream you have will come true."
+				],
+				[
+					"4",
+					"The world is always ready to receive talent with open arms."
+				],
+				[
+					"5",
+					"Unexpected wealth will arrive. Be ready to manage it wisely."
+				],
+				[
+					"6",
+					"You will travel to many exotic places in your lifetime."
+				],
+				[
+					"7",
+					"Your ability for accomplishment will follow with success."
+				],
+				[
+					"8",
+					"The joyfulness of a man prolongeth his days."
+				],
+				[
+					"9",
+					"Your everlasting patience will be rewarded sooner or later."
+				],
+				[
+					"10",
+					"You will live long and enjoy life."
+				],
+				[
+					"11",
+					"A pleasant surprise is waiting for you."
+				],
+				[
+					"12",
+					"Patience is your ally at the moment. Time is your enemy."
+				],
+				[
+					"13",
+					"Nothing astonishes men so much as common sense and plain dealing."
+				],
+				[
+					"14",
+					"It's amazing how much good you can do if you dont care who gets the credit."
+				],
+				[
+					"15",
+					"Everyone agreed. You were the best."
+				],
+				[
+					"16",
+					"A smile is your personal welcome mat."
+				],
+				[
+					"17",
+					"Well begun is half done."
+				],
+				[
+					"18",
+					"Your hard work in the future will pay off in the past."
+				],
+				[
+					"19",
+					"Don't just think, act!"
+				],
+				[
+					"20",
+					"You will make many changes before settling satisfactorily."
+				],
+				[
+					"21",
+					"A friend asks only for your time, not your money."
+				],
+				[
+					"22",
+					"You will be called in to fulfill a position of high honor and responsibility."
+				],
+				[
+					"23",
+					"The man on the top of the mountain did not fall there."
+				],
+				[
+					"24",
+					"You will conquer obstacles to achieve success."
+				],
+				[
+					"25",
+					"Joys are often the shadows, cast by sorrows."
+				],
+				[
+					"26",
+					"Fortune favors the brave and time takes no prisoners."
+				],
+				[
+					"27",
+					"An upward movement initiated in time can counteract fate."
+				],
+				[
+					"28",
+					"A journey of a thousand miles begins with a single step."
+				],
+				[
+					"29",
+					"Sometimes you just need to lay on the floor and let time pass you by."
+				],
+				[
+					"30",
+					"Never fear! The end of something marks time renewed."
+				],
+				[
+					"31",
+					"Getting the right answers is only possible when you have asked the right questions."
+				],
+				[
+					"32",
+					"Love can last a lifetime, if you want it to."
+				],
+				[
+					"33",
+					"Adversity is the parent of virtue."
+				],
+				[
+					"34",
+					"Serious trouble will not bypass you."
+				],
+				[
+					"35",
+					"Under the crescent moon's glow, your hidden talents will come to light, revealing paths unseen before."
+				],
+				[
+					"36",
+					"Wealth awaits you very soon."
+				],
+				[
+					"37",
+					"If you feel you are right, stand firmly by your convictions."
+				],
+				[
+					"38",
+					"If winter comes, can spring be far behind?"
+				],
+				[
+					"39",
+					"Keep your eye out for someone special."
+				],
+				[
+					"40",
+					"Trust no one."
+				],
+				[
+					"41",
+					"Believe and it can be done."
+				],
+				[
+					"42",
+					"In another time you will be surrounded by good friends and laughter, but not here."
+				],
+				[
+					"43",
+					"The time is right to make new friends."
+				],
+				[
+					"44",
+					"Your ability to juggle many tasks will take you far."
+				],
+				[
+					"45",
+					"A new wardrobe brings great joy and change to your life."
+				],
+				[
+					"46",
+					"Your darkest fears will soon come true."
+				],
+				[
+					"47",
+					"Opportunity knocks on your door every day\u2014answer it."
+				],
+				[
+					"48",
+					"Now is not the time to try something new."
+				],
+				[
+					"49",
+					"Your talents will be recognized and suitably rewarded."
+				],
+				[
+					"50",
+					"A distant relative will soon contact you."
+				],
+				[
+					"51",
+					"You only need look to your own reflection for inspiration."
+				],
+				[
+					"52",
+					"I see a thrilling and scary time in your immediate future."
+				],
+				[
+					"53",
+					"Your kindness leads you to another good turn."
+				],
+				[
+					"54",
+					"You will travel to many places."
+				],
+				[
+					"55",
+					"You are a new person in an old culture."
+				],
+				[
+					"56",
+					"Keep up the good work\u2014you are destined for success."
+				],
+				[
+					"57",
+					"You will soon have an opportunity to improve your finances."
+				],
+				[
+					"58",
+					"Good news will come to you from far away."
+				],
+				[
+					"59",
+					"Your deepest wish will come true."
+				],
+				[
+					"60",
+					"In time, you will discover unexpected treasure."
+				],
+				[
+					"61",
+					"Someone is looking up to you. Don't look down."
+				],
+				[
+					"62",
+					"Your life will not be peaceful but it will be fulfilling."
+				],
+				[
+					"63",
+					"You will be successful in love but a disaster in time."
+				],
+				[
+					"64",
+					"Approach all areas of life with a bold enthusiasm."
+				],
+				[
+					"65",
+					"Learning a new skill could be profitable."
+				],
+				[
+					"66",
+					"Physical activity will dramatically improve your outlook today."
+				],
+				[
+					"67",
+					"The secret of getting ahead is to travel back in time."
+				],
+				[
+					"68",
+					"You have a friendly heart and are well admired."
+				],
+				[
+					"69",
+					"Miles are covered one step at a time."
+				],
+				[
+					"70",
+					"Careful the small things overlooked in the past. They become obstacles in your future."
+				],
+				[
+					"71",
+					"There is no wisdom greater than kindness."
+				],
+				[
+					"72",
+					"Be the change you wish to see in the world."
+				],
+				[
+					"73",
+					"Happiness begins with facing life with a smile and a wink."
+				],
+				[
+					"74",
+					"Courage is not the absence of fear; it is the conquest of it."
+				],
+				[
+					"75",
+					"Nothing is impossible to a willing heart."
+				],
+				[
+					"76",
+					"Don't worry about money. The best things in life are free."
+				],
+				[
+					"77",
+					"Determination is what you need now."
+				],
+				[
+					"78",
+					"Your home is the center of great love."
+				],
+				[
+					"79",
+					"When fear hurts you, conquer it and defeat it!"
+				],
+				[
+					"80",
+					"Live the life you've imagined."
+				],
+				[
+					"81",
+					"Step by step and the thing is done."
+				],
+				[
+					"82",
+					"Create your own stage and your audience will come."
+				],
+				[
+					"83",
+					"You will soon embark on a time shared venture."
+				],
+				[
+					"84",
+					"You look tired; you should rest more. Perhaps you should take a long rest."
+				],
+				[
+					"85",
+					"Your life will get more and more and more exciting."
+				],
+				[
+					"86",
+					"Every day is a new day. But tomorrow is a new start."
+				],
+				[
+					"87",
+					"Let your fantasies unwind and time drift ever onward..."
+				],
+				[
+					"88",
+					"The troubles you have now will pass away quickly."
+				],
+				[
+					"89",
+					"Success lies in the hands of those who wants it."
+				],
+				[
+					"90",
+					"To know oneself in time, one should assert oneself in time."
+				],
+				[
+					"91",
+					"You will soon be honored by someone you respect from the past."
+				],
+				[
+					"92",
+					"Pleasure awaits you by the shore in the future."
+				],
+				[
+					"93",
+					"If you refuse to accept anything but the best, you very often get it."
+				],
+				[
+					"94",
+					"A dream you have will come true."
+				],
+				[
+					"95",
+					"Our deeds determine us, as much as we determine our deeds."
+				],
+				[
+					"96",
+					"Never give up. You're not a failure if you don't give up."
+				],
+				[
+					"97",
+					"In time, you will become great if you believe in yourself."
+				],
+				[
+					"98",
+					"There is no greater pleasure than seeing your loved ones prosper."
+				],
+				[
+					"99",
+					"You will marry your lover."
+				],
+				[
+					"100",
+					"A very attractive person has a message for you."
+				]
+			]
 		}
 	]
 }
