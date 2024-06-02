@@ -234,13 +234,7 @@
           "type": "list",
           "items": [
             "You are always under the effects of a {@spell protection from evil and good} spell",
-            {
-              "type": "list",
-              "items": [
-                "Any spell (that does not deal damage) that you cast on yourself can also affect one of your allies within 30 feet of you.",
-                "You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest."
-              ]
-            }
+            "Any spell (that does not deal damage) that you cast on yourself can also affect one of your allies within 30 feet of you. You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest."
           ]
         }
       ]
