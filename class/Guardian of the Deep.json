@@ -56,6 +56,8 @@
         }
       ],
       "subclassFeatures": [
+        "Oath of the Deep|Paladin||Devotion||3",
+        "Oath Spells|Paladin||Devotion||3",
         "Abyssal Veil|Paladin||Devotion||7",
         "Sentinel of the Deep|Paladin||Devotion||13",
         "Avatar of the Leviathan|Paladin||Devotion||20"
@@ -91,18 +93,6 @@
         {
           "type": "refSubclassFeature",
           "subclassFeature": "Channel Divinity|Paladin||Deep|GOTD|3"
-        },
-        {
-          "type": "refSubclassFeature",
-          "subclassFeature": "Abyssal Veil|Paladin||Deep|GOTD|7"
-        },
-        {
-          "type": "refSubclassFeature",
-          "subclassFeature": "Sentinel of the Deep|Paladin||Deep|GOTD|15"
-        },
-        {
-          "type": "refSubclassFeature",
-          "subclassFeature": "Avatar of the Leviathan|Paladin||Deep|GOTD|20"
         }
       ]
     },
