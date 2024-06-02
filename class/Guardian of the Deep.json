@@ -57,10 +57,10 @@
         }
       ],
       "subclassFeatures": [
-        "Oath of the Deep|Paladin||Deep||3",
-        "Abyssal Veil|Paladin||Deep||7",
-        "Sentinel of the Deep|Paladin||Deep||15",
-        "Avatar of the Leviathan|Paladin||Deep||20"
+        "Oath of the Deep|Paladin||Deep|GuardianOfTheDeep|3",
+        "Abyssal Veil|Paladin||Deep|GuardianOfTheDeep|7",
+        "Sentinel of the Deep|Paladin||Deep|GuardianOfTheDeep|15",
+        "Avatar of the Leviathan|Paladin||Deep|GuardianOfTheDeep|20"
       ]
     }
   ],
