@@ -23,7 +23,7 @@
   "subclass": [
     {
       "name": "Oath of the Deep",
-      "shortName": "Deep",
+      "subclassShortName": "Deep",
       "source": "GOTD",
       "className": "Paladin",
       "classSource": "PHB",
