@@ -2,7 +2,7 @@
   "_meta": {
     "sources": [
       {
-        "json": "Guardian of the Deep",
+        "json": "GuardianOfTheDeep",
         "abbreviation": "GOTD",
         "full": "Guardian of the Deep",
         "authors": [
@@ -24,7 +24,8 @@
     {
       "name": "Oath of the Deep",
       "subclassShortName": "Deep",
-      "source": "GOTD",
+      "source": "GuardianOfTheDeep",
+      "subclassSource": "GuardianOfTheDeep",
       "className": "Paladin",
       "classSource": "PHB",
       "page": 1,
@@ -66,12 +67,12 @@
   "subclassFeature": [
     {
       "name": "Oath of the Deep",
-      "source": "GOTD",
+      "source": "GuardianOfTheDeep",
       "page": 1,
       "className": "Paladin",
       "classSource": "PHB",
       "subclassShortName": "Deep",
-      "subclassSource": "GOTD",
+      "subclassSource": "GuardianOfTheDeep",
       "level": 3,
       "header": 1,
       "entries": [
@@ -87,22 +88,22 @@
         "As a Guardian of the deep, you gain the following class features:",
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Oath Spells|Paladin||Deep|GOTD|3"
+          "subclassFeature": "Oath Spells|Paladin||Deep|GuardianOfTheDeep|3"
         },
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Channel Divinity|Paladin||Deep|GOTD|3"
+          "subclassFeature": "Channel Divinity|Paladin||Deep|GuardianOfTheDeep|3"
         }
       ]
     },
     {
       "name": "Oath Spells",
-      "source": "GOTD",
+      "source": "GuardianOfTheDeep",
       "page": 1,
       "className": "Paladin",
       "classSource": "PHB",
       "subclassShortName": "Deep",
-      "subclassSource": "GOTD",
+      "subclassSource": "GuardianOfTheDeep",
       "level": 3,
       "header": 1,
       "entries": [
@@ -145,12 +146,12 @@
     },
     {
       "name": "Channel Divinity",
-      "source": "GOTD",
+      "source": "GuardianOfTheDeep",
       "page": 1,
       "className": "Paladin",
       "classSource": "PHB",
       "subclassShortName": "Deep",
-      "subclassSource": "GOTD",
+      "subclassSource": "GuardianOfTheDeep",
       "level": 3,
       "header": 1,
       "consumes": {
@@ -160,22 +161,22 @@
         "When you take this oath at 3rd level, you gain the following two Channel Divinity options.",
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Blessing of the Leviathan|Paladin||Deep|GOTD|3"
+          "subclassFeature": "Blessing of the Leviathan|Paladin||Deep|GuardianOfTheDeep|3"
         },
         {
           "type": "refSubclassFeature",
-          "subclassFeature": "Creatures of the Abyss|Paladin||Deep|GOTD|3"
+          "subclassFeature": "Creatures of the Abyss|Paladin||Deep|GuardianOfTheDeep|3"
         }
       ]
     },
     {
       "name": "Blessing of the Leviathan",
-      "source": "GOTD",
+      "source": "GuardianOfTheDeep",
       "page": 1,
       "className": "Paladin",
       "classSource": "PHB",
       "subclassShortName": "Deep",
-      "subclassSource": "GOTD",
+      "subclassSource": "GuardianOfTheDeep",
       "level": 3,
       "header": 1,
       "entries": [
@@ -191,12 +192,12 @@
     },
     {
       "name": "Creatures of the Abyss",
-      "source": "GOTD",
+      "source": "GuardianOfTheDeep",
       "page": 1,
       "className": "Paladin",
       "classSource": "PHB",
       "subclassShortName": "Deep",
-      "subclassSource": "GOTD",
+      "subclassSource": "GuardianOfTheDeep",
       "level": 3,
       "header": 1,
       "entries": [
@@ -205,12 +206,12 @@
     },
     {
       "name": "Abyssal Veil",
-      "source": "GOTD",
+      "source": "GuardianOfTheDeep",
       "page": 1,
       "className": "Paladin",
       "classSource": "PHB",
       "subclassShortName": "Deep",
-      "subclassSource": "GOTD",
+      "subclassSource": "GuardianOfTheDeep",
       "level": 7,
       "header": 2,
       "entries": [
@@ -219,12 +220,12 @@
     },
     {
       "name": "Sentinel of the Deep",
-      "source": "GOTD",
+      "source": "GuardianOfTheDeep",
       "page": 1,
       "className": "Paladin",
       "classSource": "PHB",
       "subclassShortName": "Deep",
-      "subclassSource": "GOTD",
+      "subclassSource": "GuardianOfTheDeep",
       "level": 15,
       "header": 2,
       "entries": [
@@ -246,12 +247,12 @@
     },
     {
       "name": "Avatar of the Leviathan",
-      "source": "GOTD",
+      "source": "GuardianOfTheDeep",
       "page": 1,
       "className": "Paladin",
       "classSource": "PHB",
       "subclassShortName": "Deep",
-      "subclassSource": "GOTD",
+      "subclassSource": "GuardianOfTheDeep",
       "level": 20,
       "header": 2,
       "entries": [
