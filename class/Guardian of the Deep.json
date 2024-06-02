@@ -1,0 +1,289 @@
+{
+  "_meta": {
+    "sources": [
+      {
+        "json": "Guardian of the Deep",
+        "abbreviation": "GOTD",
+        "full": "Guardian of the Deep",
+        "authors": [
+          "Villagelder"
+        ],
+        "convertedBy": [
+          "TSonu"
+        ],
+        "version": "1",
+        "color": "613583",
+        "url": "https://github.com/chris-arsenault/galthour-homebrew",
+        "targetSchema": "1.2"
+      }
+    ],
+    "dateAdded": 1717350425,
+    "dateLastModified": 1717350425
+  },
+  "subclass": [
+    {
+      "name": "Oath of the Deep",
+      "shortName": "Deep",
+      "source": "GOTD",
+      "className": "Paladin",
+      "classSource": "PHB",
+      "page": 1,
+      "srd": false,
+      "additionalSpells": [
+        {
+          "prepared": {
+            "1": [
+              "create or destroy water",
+              "armor of agathys"
+            ],
+            "2": [
+              "crown of madness",
+              "rime's binding ice"
+            ],
+            "3": [
+              "spirit guardians",
+              "fear"
+            ],
+            "4": [
+              "ice storm",
+              "summon aberration"
+            ],
+            "5": [
+              "cone of cold",
+              "legend lore"
+            ]
+          }
+        }
+      ],
+      "subclassFeatures": [
+        "Abyssal Veil|Paladin||Devotion||7",
+        "Sentinel of the Deep|Paladin||Devotion||13",
+        "Avatar of the Leviathan|Paladin||Devotion||20"
+      ]
+    }
+  ],
+  "subclassFeature": [
+    {
+      "name": "Oath of the Deep",
+      "source": "GOTD",
+      "page": 1,
+      "className": "Paladin",
+      "classSource": "PHB",
+      "subclassShortName": "Deep",
+      "subclassSource": "GOTD",
+      "level": 3,
+      "header": 1,
+      "entries": [
+        {
+          "type": "list",
+          "items":  [
+            "<b>The Last Titan</b>: Like the Leviathans shielding their young within the depths, I vow to protect the innocent from harm, using my strength to defend those who cannot defend themselves.",
+            "<b>Wrath of the Titan</b>:  I wield the wrath of the Leviathans against the wicked, ensuring that evildoers face the consequences of their actions. Those who persist in darkness shall feel the full force of my judgment, echoing the depths of the ocean's fury.",
+            "<b>Deep Veneration</b>: I honor and revere the ancient Leviathans, guardians of the depths and embodiments of primordial power. I recognize their dominion over the seas and pledge to act as their steward, protecting the oceanic realms they call home.",
+            "<b>Representative of the Deep</b>: I pledge to honorably represent my aquatic race's culture on the surface. It is my duty to bridge the gap between our worlds, fostering understanding between the overworld and undersea."
+          ]
+        },
+        "As a Guardian of the deep, you gain the following class features:",
+        {
+          "type": "refSubclassFeature",
+          "subclassFeature": "Oath Spells|Paladin||Deep|GOTD|3"
+        },
+        {
+          "type": "refSubclassFeature",
+          "subclassFeature": "Channel Divinity|Paladin||Deep|GOTD|3"
+        },
+        {
+          "type": "refSubclassFeature",
+          "subclassFeature": "Abyssal Veil|Paladin||Deep|GOTD|7"
+        },
+        {
+          "type": "refSubclassFeature",
+          "subclassFeature": "Sentinel of the Deep|Paladin||Deep|GOTD|15"
+        },
+        {
+          "type": "refSubclassFeature",
+          "subclassFeature": "Avatar of the Leviathan|Paladin||Deep|GOTD|20"
+        }
+      ]
+    },
+    {
+      "name": "Oath Spells",
+      "source": "GOTD",
+      "page": 1,
+      "className": "Paladin",
+      "classSource": "PHB",
+      "subclassShortName": "Deep",
+      "subclassSource": "GOTD",
+      "level": 3,
+      "header": 1,
+      "entries": [
+        "You gain oath spells at the paladin levels listed.",
+        {
+          "type": "table",
+          "caption": "Guardian of the Deep Spells",
+          "colLabels": [
+            "Paladin Level",
+            "Spells"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1st",
+              "{@spell create or destroy water}, {@spell armor of agathy's}"
+            ],
+            [
+              "2nd",
+              "{@spell crown of madness}, {@spell rime's binding ice}"
+            ],
+            [
+              "3rd",
+              "{@spell spirit guardians}, {@spell fear}"
+            ],
+            [
+              "4th",
+              "{@spell ice storm}, {@spell summon aberration}"
+            ],
+            [
+              "5th",
+              "{@spell cone of cold}, {@spell legend lore}"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Channel Divinity",
+      "source": "GOTD",
+      "page": 1,
+      "className": "Paladin",
+      "classSource": "PHB",
+      "subclassShortName": "Deep",
+      "subclassSource": "GOTD",
+      "level": 3,
+      "header": 1,
+      "consumes": {
+        "name": "Channel Divinity"
+      },
+      "entries": [
+        "When you take this oath at 3rd level, you gain the following two Channel Divinity options.",
+        {
+          "type": "refSubclassFeature",
+          "subclassFeature": "Blessing of the Leviathan|Paladin||Deep|GOTD|3"
+        },
+        {
+          "type": "refSubclassFeature",
+          "subclassFeature": "Creatures of the Abyss|Paladin||Deep|GOTD|3"
+        }
+      ]
+    },
+    {
+      "name": "Blessing of the Leviathan",
+      "source": "GOTD",
+      "page": 1,
+      "className": "Paladin",
+      "classSource": "PHB",
+      "subclassShortName": "Deep",
+      "subclassSource": "GOTD",
+      "level": 3,
+      "header": 1,
+      "entries": [
+        "As an action, you can use your Channel Divinity to invoke the ancient power of the Leviathan, granting you and a select few allies a surge of strength and resilience. For the next minute, a number of friendly creatures equal to your proficiency bonus within 30 feet of you gain the following benefits:",
+        {
+          "type": "list",
+          "items": [
+            "They have {@quickref Advantage and Disadvantage|PHB|2|0|advantage} on Strength and Constitution {@quickref saving throws|PHB|2|1}.",
+            "They gain temporary hit points equal to your paladin level + your Charisma modifier (minimum 1)."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Creatures of the Abyss",
+      "source": "GOTD",
+      "page": 1,
+      "className": "Paladin",
+      "classSource": "PHB",
+      "subclassShortName": "Deep",
+      "subclassSource": "GOTD",
+      "level": 3,
+      "header": 1,
+      "entries": [
+        "You can use your Channel Divinity to adapt your allies to the seas. For the next 8 hours, you and your allies that you can see within 30 feet of you gain a swimming speed of 30 ft and can breathe underwater. At 15th level, this duration increases to 24 hours. For the duration, your allies keep these abilities at any distance from you on the same plane of existence."
+      ]
+    },
+    {
+      "name": "Abyssal Veil",
+      "source": "GOTD",
+      "page": 1,
+      "className": "Paladin",
+      "classSource": "PHB",
+      "subclassShortName": "Deep",
+      "subclassSource": "GOTD",
+      "level": 7,
+      "header": 2,
+      "entries": [
+        "Beginning at 7th level, you emit an abyssal aura that veils you from your enemies. The first attack each turn from an enemy creature against you or an ally within 10 feet of you suffers disadvantage. At 18th level, this aura increases to 30 feet."
+      ]
+    },
+    {
+      "name": "Sentinel of the Deep",
+      "source": "GOTD",
+      "page": 1,
+      "className": "Paladin",
+      "classSource": "PHB",
+      "subclassShortName": "Deep",
+      "subclassSource": "GOTD",
+      "level": 15,
+      "header": 2,
+      "entries": [
+        "At 15th level, you may choose only  of the following as a permanent addition:",
+        {
+          "type": "list",
+          "items": [
+            "You are always under the effects of a {@spell protection from evil and good} spell",
+            {
+              "type": "list",
+              "items": [
+                "Any spell (that does not deal damage) that you cast on yourself can also affect one of your allies within 30 feet of you.",
+                "You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Avatar of the Leviathan",
+      "source": "GOTD",
+      "page": 1,
+      "className": "Paladin",
+      "classSource": "PHB",
+      "subclassShortName": "Deep",
+      "subclassSource": "GOTD",
+      "level": 20,
+      "header": 2,
+      "entries": [
+        "At 20th level, you can assume the form of an ancient leviathan, taking on an appearance you choose such as a colossal squid, kraken, or sea dragon.",
+        "Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:",
+        {
+          "type": "list",
+          "items": [
+            "You grow to Large size and your Strength increases to 24",
+            "You grow two giant arms in the form of crab claws, tentacles or dragon claws.",
+            {
+              "type": "list",
+              "items": [
+                "You gain two attacks with the arms with 20 ft reach, {@damage 3d6} damage",
+                "The damage is bludgeoning (crab or tentacles) or slashing (dragon claws)",
+                "As a bonus action with these arms, you may make a grapple check against an enemy and if you succeed you can throw the creature up to 30 feet in any direction."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

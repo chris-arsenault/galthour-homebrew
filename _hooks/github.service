@@ -1,0 +1,15 @@
+[Unit]
+Description=GithubHooks
+After=network.target
+StartLimitIntervalSec=0
+
+[Service]
+Type=simple
+Restart=always
+RestartSec-=1
+User=ec2-user
+WorkingDirectory=/home/ec2-user/github-hooks
+ExecStart=/usr/bin/node /home/ec2-user/foundrydata/Data/assets/galthour-homebrew/receiveCommit.js
+
+[Install]
+WantedBy=multi-user.target
